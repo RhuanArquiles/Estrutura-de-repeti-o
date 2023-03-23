@@ -6,3 +6,4 @@
  - Desafio_05 -> Pergunta ao usuário o número que deseja ver a tabuada
  - Desafio_06 -> Pergunta ao usuário um número e mostra o fatorial dele
  - Desafio_07 -> Mostra um vetor em ordem inversa
+ - Desafio_08 -> Um vetor que diga quantas consoantes foram digitadas e a quantidade delas - Tratamento de strings
