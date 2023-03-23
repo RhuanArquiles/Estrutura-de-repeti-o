@@ -7,3 +7,4 @@
  - Desafio_06 -> Pergunta ao usuário um número e mostra o fatorial dele
  - Desafio_07 -> Mostra um vetor em ordem inversa
  - Desafio_08 -> Um vetor que diga quantas consoantes foram digitadas e a quantidade delas - Tratamento de strings
+ - Desafio_09 -> O Programa lê 20 números aleatórios entre 0-100 mostra os números gerados, seus sucessores e antecessores
