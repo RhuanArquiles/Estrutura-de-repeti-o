@@ -1,4 +1,4 @@
-# Estrutura-de-repeti-o
+# Estrutura-de-repetição
  - Desafio_01 -> Lendo um conjunto com dois dados e interrompendo-os
  - Desafio_02 -> Lendo um valor e repetindo a pergunta caso a condição não seja satisfeita
  - Desafio_03 -> Lendo valores e determinando o menor, o maior e a média dos valores
