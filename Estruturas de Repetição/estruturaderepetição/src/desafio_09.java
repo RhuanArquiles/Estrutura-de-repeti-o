@@ -1,7 +1,7 @@
 
 /**
  * Faça um programa que leia 20 números inteiros aleatórios (entre 0 e 100
- * armazene-os num vetor). e ao final mostre os números, seus sucessores e antecessores
+ * armazene-os num vetor). e ao final mostre os números e seus sucessores
  */
 
 import java.util.Random;
